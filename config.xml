@@ -1,1 +1,13 @@
-
+<widget xmlns:gap="http://phonegap.com/ns/1.0"
+        id="com.chancehoard.test" version="1.0.0">
+  <name>dCider</name>
+  <author>Chance Hoard</author>
+  <platform name="android">
+    
+  </platform>
+  <platform name="ios">
+    
+  </platform>
+  <gap:plugin name="phonegap-admob" source="npm"/>
+  <preference name="orientation" value="portrait" />
+</widget>
